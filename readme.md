@@ -16,7 +16,7 @@ Each task costs exactly `N` points where `N` is the variable that depends on the
 
 
 ### Marks
-Can be found here: [1-st semester](), [2-nd semester]()
+Can be found here: [1-st semester](https://docs.google.com/spreadsheets/d/1ZShB5auH0_69lvJSorL8pJNXiKnF9jhxeioJRoq43Gg)
 
 ### Contacts:
 [telegram](https://t.me/konstantinleladze)
