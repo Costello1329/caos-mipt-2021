@@ -4,8 +4,8 @@
 You need to support the next operations with {a-zA-Z0-9+-}-sets:
 + union (already implemented)
 + intersection
-+ subtraction
 + difference
++ symmetric difference
 + inversion
 
 Analyze the code in `main.c` and implement the remaining functions.
