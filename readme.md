@@ -1,19 +1,17 @@
 # CAOS for 2-nd year international students of DIHT MIPT
 
-### Tasks
-#### First semester
-Tasks and homeworks can be found inside the hw folders. You will have 7 tasks during the first semeter. You'll have the final test also.
 
-#### Second semester
-Tasks and homeworks can be found inside the hw folders. You will have 5 tasks during the second semeter. You'll have the final project also.
+### Youtube playlist
+Can be found here: [youtube](https://www.youtube.com/playlist?list=PL85_gNEP3vgRtexq5fuq0BSrc3sV_6o_1)
+
+### Tasks
+You will have 5 tasks during the first semeter. You'll have the final exam also.
 
 ### Grading
-#### First semester
-Each task costs exactly `N` points where `N` is the variable that depends on the task. Total ammount of the points that you can get (bonuses doesn't count) is `100`. Your final grade will be calculated with the formula: `(n >= 40) ? round(3 + (n - 40) / 8.5) : retake()`
+Each task costs exactly `N` points where `N` is the variable that depends on the task. Total ammount of the points that you can get is `100`. Your final grade will be calculated using this formula: `(n >= 40) ? round(3 + (n - 40) / 8.5) : retake()`
 
-#### Second semester
-Each task costs exactly `N` points where `N` is the variable that depends on the task. Total ammount of the points that you can get is `100`. Your final grade will be calculated with the formula: `(n >= 30) ? round(n / 100) : retake()`
-
+### Homeworks
++ Sets: [github classrooms autotests](https://classroom.github.com/a/4mZ6mppX). Costs 15 points.
 
 ### Marks
 Can be found here: [1-st semester](https://docs.google.com/spreadsheets/d/1ZShB5auH0_69lvJSorL8pJNXiKnF9jhxeioJRoq43Gg)
