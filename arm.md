@@ -36,7 +36,7 @@ copy the second pwd output
 ### Modify the bashrc:
 ```
 vim ~/.bashrc
-PATH="$PATH:{second_pwd output goes here (remove { and } too!)}"
+PATH="$PATH:{second pwd output goes here (remove { and } too!)}"
 export LINARO_SYSROOT="{first pwd output goes here (remove { and } too!)}"
 :wq
 ```
