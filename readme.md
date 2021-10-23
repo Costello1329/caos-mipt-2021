@@ -11,8 +11,8 @@ You will have 5-7 tasks during the first semeter. You'll have the final exam als
 Each task costs exactly `N` points where `N` is the variable that depends on the task. Total ammount of the points that you can get is `100`. Your final grade will be calculated using this formula: `(n >= 40) ? round(3 + (n - 40) / 8.5) : retake()`
 
 ### Homeworks
-+ h/w #1 sets: [github classrooms autotests](https://classroom.github.com/a/4mZ6mppX). Costs 15 points. Deadline: October 21-th, 23:59
-+ h/w #2 det2: [github classrooms autotests](https://classroom.github.com/a/C3yZC7Hm). Costs 6 points. Deadline: October 28-th, 23:59
++ h/w #1 sets: [github classrooms autotests](https://classroom.github.com/a/4mZ6mppX). Costs 10 points. Deadline: October 21-th, 23:59
++ h/w #2 det2: [github classrooms autotests](https://classroom.github.com/a/C3yZC7Hm). Costs 12 points. Deadline: October 28-th, 23:59
 
 ### Marks
 Can be found here: [1-st semester](https://docs.google.com/spreadsheets/d/1ZShB5auH0_69lvJSorL8pJNXiKnF9jhxeioJRoq43Gg)
