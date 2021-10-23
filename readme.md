@@ -5,7 +5,7 @@
 Can be found here: [youtube](https://www.youtube.com/playlist?list=PL85_gNEP3vgRtexq5fuq0BSrc3sV_6o_1)
 
 ### Tasks
-You will have 5 tasks during the first semeter. You'll have the final exam also.
+You will have 5-7 tasks during the first semeter. You'll have the final exam also.
 
 ### Grading
 Each task costs exactly `N` points where `N` is the variable that depends on the task. Total ammount of the points that you can get is `100`. Your final grade will be calculated using this formula: `(n >= 40) ? round(3 + (n - 40) / 8.5) : retake()`
