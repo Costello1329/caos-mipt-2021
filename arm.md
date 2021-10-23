@@ -11,8 +11,6 @@ tar -xf gcc-linaro-7.3.1-2018.05-x86_64_arm-linux-gnueabi.tar.xz
 tar -xf sysroot-glibc-linaro-2.25-2018.05-arm-linux-gnueabi.tar.xz
 mv gcc-linaro-7.3.1-2018.05-x86_64_arm-linux-gnueabi.tar.xz gcc-linaro
 mv sysroot-glibc-linaro-2.25-2018.05-arm-linux-gnueabi.tar.xz sysroot
-unlink gcc-linaro-7.3.1-2018.05-x86_64_arm-linux-gnueabi.tar.xz
-unlink sysroot-glibc-linaro-2.25-2018.05-arm-linux-gnueabi.tar.xz
 ```
 
 ## Installing emulator
