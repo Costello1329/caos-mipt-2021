@@ -18,7 +18,7 @@ unlink sysroot-glibc-linaro-2.25-2018.05-arm-linux-gnueabi.tar.xz
 ## Installing emulator
 ```
 sudo apt-get update
-apt-get install qemu-user
+sudo apt-get install qemu-user
 ```
 
 ## Configuring
