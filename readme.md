@@ -13,6 +13,7 @@ Each task costs exactly `N` points where `N` is the variable that depends on the
 ### Homeworks
 + h/w #1 sets: [github classrooms autotests](https://classroom.github.com/a/4mZ6mppX). Costs 8 points. Deadline: October 21-th, 23:59
 + h/w #2 det2: [github classrooms autotests](https://classroom.github.com/a/C3yZC7Hm). Costs 12 points. Deadline: October 28-th, 23:59
++ h/w #3 matrix-fun: [github classrooms autotests](https://classroom.github.com/a/-_1qo_tu). Costs 15 points. Deadline: November 11-th, 23:59
 
 ### Marks
 Can be found here: [1-st semester](https://docs.google.com/spreadsheets/d/1Tgdwisz_XMZKl8V1fN_sbbZNGZV1ZJdvDhrT02vjiWs)
