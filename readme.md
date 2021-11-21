@@ -5,15 +5,18 @@
 Can be found here: [youtube](https://www.youtube.com/playlist?list=PL85_gNEP3vgRtexq5fuq0BSrc3sV_6o_1)
 
 ### Tasks
-You will have 5-7 tasks during the first semeter. You'll have the final exam also.
+You will have 6 tasks during the first semeter.
 
 ### Grading
 Each task costs exactly `N` points where `N` is the variable that depends on the task. Total ammount of the points that you can get is `100`. Your final grade will be calculated using this formula: `(n >= 30) ? round(n / 10) : retake()`
 
 ### Homeworks
-+ h/w #1 sets: [github classrooms autotests](https://classroom.github.com/a/4mZ6mppX). Costs 8 points. Deadline: October 21-th, 23:59
-+ h/w #2 det2: [github classrooms autotests](https://classroom.github.com/a/C3yZC7Hm). Costs 12 points. Deadline: October 28-th, 23:59
-+ h/w #3 matrix-fun: [github classrooms autotests](https://classroom.github.com/a/-_1qo_tu). Costs 15 points. Deadline: November 11-th, 23:59
++ h/w #1 sets: [github classrooms autotests](https://classroom.github.com/a/4mZ6mppX). Deadline: October 21-th, 23:59
++ h/w #2 det2: [github classrooms autotests](https://classroom.github.com/a/C3yZC7Hm). Deadline: October 28-th, 23:59
++ h/w #3 matrix fun: [github classrooms autotests](https://classroom.github.com/a/-_1qo_tu). Deadline: November 11-th, 23:59
++ h/w #4 tree: [github classrooms autotests](https://classroom.github.com/a/ye--z9tK). Deadline: December 9-th, 23:59
++ h/w #5 spiral fill: [github classrooms autotests](https://classroom.github.com/a/iZxc-71K). Deadline: December 9-th, 23:59
++ h/w #6 cpp expression: [github classrooms autotests](https://classroom.github.com/a/8xgWlV3G). Deadline: December 16-th, 23:59
 
 ### Marks
 Can be found here: [1-st semester](https://docs.google.com/spreadsheets/d/1Tgdwisz_XMZKl8V1fN_sbbZNGZV1ZJdvDhrT02vjiWs)
