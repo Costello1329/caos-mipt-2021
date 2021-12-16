@@ -14,8 +14,8 @@ Each task costs exactly `N` points where `N` is the variable that depends on the
 + h/w #1 sets: [github classrooms autotests](https://classroom.github.com/a/4mZ6mppX). Deadline: October 21-th, 23:59
 + h/w #2 det2: [github classrooms autotests](https://classroom.github.com/a/C3yZC7Hm). Deadline: October 28-th, 23:59
 + h/w #3 matrix fun: [github classrooms autotests](https://classroom.github.com/a/-_1qo_tu). Deadline: November 11-th, 23:59
-+ h/w #4 tree: [github classrooms autotests](https://classroom.github.com/a/ye--z9tK). Deadline: December 9-th, 23:59
-+ h/w #5 spiral fill: [github classrooms autotests](https://classroom.github.com/a/iZxc-71K). Deadline: December 9-th, 23:59
++ h/w #4 tree: [github classrooms autotests](https://classroom.github.com/a/ye--z9tK). Soft deadline: December 9-th, 23:59; Hard deadline (-40%): December 16-th, 23:59
++ h/w #5 spiral fill: [github classrooms autotests](https://classroom.github.com/a/iZxc-71K). Deadline: December 9-th, 23:59; Hard deadline (-40%): December 16-th, 23:59
 + h/w #6 cpp expression: [github classrooms autotests](https://classroom.github.com/a/8xgWlV3G). Deadline: December 16-th, 23:59
 
 ### Marks
