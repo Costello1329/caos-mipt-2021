@@ -8,7 +8,6 @@ Can be found here: [youtube](https://www.youtube.com/playlist?list=PL85_gNEP3vgR
 You will have multiple tasks during the course. All tasks will have autotests in github classroms.
 
 ### Grading
-Each task costs exactly `Ni` points where `Ni` is the variable that depends on the task.
 + First semester: Total ammount of the points that you can get is `100`. Your final grade will be calculated using this formula: `(total_score >= 30) ? round(total_score / 10) : retake()`.
 + Second semester: Total ammount of the points that you can get is `75`, but you will also have exam, which costs `25` points. You should score at least `10` points for the exam in order to pass the course. Your final grade will be calculated using this formula: `(total_score >= 30 and exam_score >= 10) ? round(total_score / 10) : retake()`.
 
