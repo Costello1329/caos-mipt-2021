@@ -1,15 +1,18 @@
 # CAOS for 2-nd year international students of DIHT MIPT
 
 
-### Youtube playlist
-Can be found here: [youtube](https://www.youtube.com/playlist?list=PL85_gNEP3vgRtexq5fuq0BSrc3sV_6o_1).
+## Links:
++ Lectures and seminars ([Konstantin Leladze](https://t.me/konstantinleladze)): [youtube](https://www.youtube.com/playlist?list=PL85_gNEP3vgRtexq5fuq0BSrc3sV_6o_1)
++ Scores: [first semester](https://docs.google.com/spreadsheets/d/1Tgdwisz_XMZKl8V1fN_sbbZNGZV1ZJdvDhrT02vjiWs), [second semester](https://docs.google.com/spreadsheets/d/1EiCgtpLBBbpxgMUO-nnZWvH66gPYAMjP5rds4FcNKTk).
++ [Telegram chat](https://t.me/+LYOYGPVW-cA3NmJi)
 
-### Tasks
-You will have multiple tasks during the course. All tasks will have autotests in github classroms.
+## Rules of the game:
 
-### Grading
-+ First semester: Total ammount of the points that you can get is `100`. Your final grade will be calculated using this formula: `(total_score >= 30) ? round(total_score / 10) : retake()`.
-+ Second semester: Total ammount of the points that you can get is `75`, but you will also have exam, which costs `25` points. You should score at least `10` points for the exam in order to pass the course. Your final grade will be calculated using this formula: `(total_score >= 30 and exam_score >= 10) ? round(total_score / 10) : retake()`.
+### Lessons:
+During the semester, the group will have one lesson of CAOS. Lessons are conducted in Zoom. Links to lessons are posted in advance in telegram chat.
+
+### Restrictions:
+It's absolutely prohibited to write off, each task must be solved individualy! We'll ban every writen off solution. Furthermore, we'll also ban the solution wrom which the other student has written off. If the simuation will happen again – it will cause an instant retake for both sides.
 
 ### Homework
 + h/w #1 `sets`: [github classrooms autotests](https://classroom.github.com/a/4mZ6mppX). Deadline: October 21-th, 23:59
@@ -23,12 +26,12 @@ You will have multiple tasks during the course. All tasks will have autotests in
 + h/w #9 `tcp proxy`
 + h/w #10 `http server`
 
-### Marks
-Can be found here: [1-st semester](https://docs.google.com/spreadsheets/d/1Tgdwisz_XMZKl8V1fN_sbbZNGZV1ZJdvDhrT02vjiWs), [2-nd semester](https://docs.google.com/spreadsheets/d/1EiCgtpLBBbpxgMUO-nnZWvH66gPYAMjP5rds4FcNKTk).
+### Grading
++ First semester: Total ammount of the points that you can get is `100`. Your final grade will be calculated using this formula: `(total_score >= 30) ? round(total_score / 10) : retake()`.
++ Second semester: Total ammount of the points that you can get is `75`, but you will also have exam, which costs `25` points. You should score at least `10` points for the exam in order to pass the course. Your final grade will be calculated using this formula: `(total_score >= 30 and exam_score >= 10) ? round(total_score / 10) : retake()`.
 
-### Contacts:
-[telegram](https://t.me/konstantinleladze)
-
+### Exam talk:
+On the appointed day of the exam talk, I will publish a list of students, which will include the talk start time for every individual student. At the appointed time, you should follow the link to the zoom conference, which I will send in the telegram chat. Exam talk may include every topic which I've teached during the course. Exam talk will last `30 minutes`. During the discussion, I will ask additional questions, and, possibly, give you some simple tasks to check your skills in programming. As a result of the exam, I will give you a grade, and you will see it in the spreadsheet with grades.
 
 ## Copyright
 
