@@ -3,7 +3,7 @@
 
 ## Links:
 + Lectures and seminars ([Konstantin Leladze](https://t.me/konstantinleladze)): [youtube](https://www.youtube.com/playlist?list=PL85_gNEP3vgRtexq5fuq0BSrc3sV_6o_1)
-+ Scores: [first semester](https://docs.google.com/spreadsheets/d/1Tgdwisz_XMZKl8V1fN_sbbZNGZV1ZJdvDhrT02vjiWs), [second semester](https://docs.google.com/spreadsheets/d/1EiCgtpLBBbpxgMUO-nnZWvH66gPYAMjP5rds4FcNKTk).
++ [Scores](https://docs.google.com/spreadsheets/d/1Tgdwisz_XMZKl8V1fN_sbbZNGZV1ZJdvDhrT02vjiWs)
 + [Telegram chat](https://t.me/+LYOYGPVW-cA3NmJi)
 
 ## Rules of the game:
