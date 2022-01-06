@@ -21,17 +21,15 @@ It's absolutely prohibited to write off, each task must be solved individualy! W
 + h/w #4 `tree`: [github classrooms autotests](https://classroom.github.com/a/ye--z9tK). Soft deadline: December 9-th, 23:59. Hard deadline (-40%): December 16-th, 23:59
 + h/w #5 `spiral fill`: [github classrooms autotests](https://classroom.github.com/a/iZxc-71K). Deadline: December 9-th, 23:59. Hard deadline (-40%): December 16-th, 23:59
 + h/w #6 `cpp expression`: [github classrooms autotests](https://classroom.github.com/a/8xgWlV3G). Deadline: December 16-th, 23:59
-+ h/w #7 `merge sort`
-+ h/w #8 `ping pong`
-+ h/w #9 `tcp proxy`
-+ h/w #10 `http server`
++ h/w #7 `parse gcc log`
++ h/w #8 `callback`
++ h/w #9 `merge sort`
++ h/w #10 `ping pong`
++ h/w #11 `tcp proxy`
++ h/w #12 `http server`
 
 ### Grading
-+ First semester: Total ammount of the points that you can get is `100`. Your final grade will be calculated using this formula: `(total_score >= 30) ? round(total_score / 10) : retake()`.
-+ Second semester: Total ammount of the points that you can get is `75`, but you will also have exam, which costs `25` points. You should score at least `10` points for the exam in order to pass the course. Your final grade will be calculated using this formula: `(total_score >= 30 and exam_score >= 10) ? round(total_score / 10) : retake()`.
-
-### Exam talk:
-On the appointed day of the exam talk, I will publish a list of students, which will include the talk start time for every individual student. At the appointed time, you should follow the link to the zoom conference, which I will send in the telegram chat. Exam talk may include every topic which I've teached during the course. Exam talk will last `30 minutes`. During the discussion, I will ask additional questions, and, possibly, give you some simple tasks to check your skills in programming. As a result of the exam, I will give you a grade, and you will see it in the spreadsheet with grades.
+In both semesters, the total ammount of points that you can get is `100`. Your final grade can be calculated using this formula: `(total_score >= 30) ? round(total_score / 10) : retake()`
 
 ## Copyright
 
