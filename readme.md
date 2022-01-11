@@ -29,7 +29,7 @@ It's absolutely prohibited to write off, each task must be solved individualy! W
 ## Grading
 In both semesters, the total ammount of points that you can get is `100`. Your final grade can be calculated using this formula: `(total_score >= 30) ? round(total_score / 10) : retake()`
 
-### Useful links, textguides:
+## Useful links, textguides:
 + [An article about ieee754](https://steve.hollasch.net/cgindex/coding/ieeefloat.html)
 + [Interesting video related to ieee754](https://www.youtube.com/watch?v=p8u_k2LIZyo)
 + [My guide on configuring the ARM toolchain on ubuntu](https://github.com/Costello1329/caos-mipt-2021/blob/master/arm.md)
