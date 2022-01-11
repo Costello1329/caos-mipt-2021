@@ -64,4 +64,4 @@ In both semesters, the total ammount of points that you can get is `100`. Your f
 All materials are available under license [Creative Commons «Attribution-ShareAlike» 4.0](http://creativecommons.org/licenses/by-sa/4.0/).\
 When borrowing any materials from this repository, you must leave a link to it, also, you should include my name: **Konstantin Leladze**.
 
-__© Konstantin Leladze, [Viktor Yakovlev](https://github.com/victor-yacovlev/mipt-diht-caos)__
+__© Konstantin Leladze, [Viktor Yakovlev](https://github.com/victor-yacovlev/)__
