@@ -5,3 +5,7 @@
 ### ARM
 + [ARM textguide](https://azeria-labs.com/writing-arm-assembly-part-1/)
 + [ARM online emulator](https://bkhmsi.github.io/ARMThumb_Sim/#/)
+
+### Digital Ocean
++ [site](https://digitalocean.com)
++ [100$ discount](https://www.digitalocean.com/github-students/)
