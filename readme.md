@@ -5,6 +5,7 @@
 + Lectures and seminars ([Konstantin Leladze](https://t.me/konstantinleladze)): [youtube](https://www.youtube.com/playlist?list=PL85_gNEP3vgRtexq5fuq0BSrc3sV_6o_1)
 + [Scores](https://docs.google.com/spreadsheets/d/1Tgdwisz_XMZKl8V1fN_sbbZNGZV1ZJdvDhrT02vjiWs)
 + [Telegram chat](https://t.me/+LYOYGPVW-cA3NmJi)
++ [Course materials](https://github.com/victor-yacovlev/mipt-diht-caos/tree/master/en-mipt)
 
 ## Lessons:
 During the semester, the group will have one lesson of CAOS. Lessons are conducted in Zoom. Links to lessons are posted in advance in telegram chat.
