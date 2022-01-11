@@ -6,15 +6,13 @@
 + [Scores](https://docs.google.com/spreadsheets/d/1Tgdwisz_XMZKl8V1fN_sbbZNGZV1ZJdvDhrT02vjiWs)
 + [Telegram chat](https://t.me/+LYOYGPVW-cA3NmJi)
 
-## Rules of the game:
-
-### Lessons:
+## Lessons:
 During the semester, the group will have one lesson of CAOS. Lessons are conducted in Zoom. Links to lessons are posted in advance in telegram chat.
 
-### Restrictions:
+## Restrictions:
 It's absolutely prohibited to write off, each task must be solved individualy! We'll ban every writen off solution. Furthermore, we'll also ban the solution wrom which the other student has written off. If the simuation will happen again – it will cause an instant retake for both sides.
 
-### Homework
+## Homework
 + h/w #1 `sets`: [github classrooms autotests](https://classroom.github.com/a/4mZ6mppX). Deadline: October 21-th, 23:59
 + h/w #2 `det2`: [github classrooms autotests](https://classroom.github.com/a/C3yZC7Hm). Deadline: October 28-th, 23:59
 + h/w #3 `matrix fun`: [github classrooms autotests](https://classroom.github.com/a/-_1qo_tu). Deadline: November 11-th, 23:59
@@ -28,11 +26,21 @@ It's absolutely prohibited to write off, each task must be solved individualy! W
 + h/w #11 `tcp proxy`
 + h/w #12 `http server`
 
-### Grading
+## Grading
 In both semesters, the total ammount of points that you can get is `100`. Your final grade can be calculated using this formula: `(total_score >= 30) ? round(total_score / 10) : retake()`
 
-## Copyright
+### Useful links, textguides:
++ [An article about ieee754](https://steve.hollasch.net/cgindex/coding/ieeefloat.html)
++ [Interesting video related to ieee754](https://www.youtube.com/watch?v=p8u_k2LIZyo)
++ [My guide on configuring the ARM toolchain on ubuntu](https://github.com/Costello1329/caos-mipt-2021/blob/master/arm.md)
++ [ARM textguide](https://azeria-labs.com/writing-arm-assembly-part-1/)
++ [ARM online emulator](https://bkhmsi.github.io/ARMThumb_Sim/)
++ [Digital Ocean site](https://digitalocean.com)
++ [Digital Ocean 100$ discount](https://www.digitalocean.com/github-students/)
++ [My guide on configuring the X86_32 toolchain on ubuntu](https://github.com/Costello1329/caos-mipt-2021/blob/master/x86_32.md)
 
+
+## Copyright
 ![Creative Commons Licence](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
 
 All materials are available under license [Creative Commons «Attribution-ShareAlike» 4.0](http://creativecommons.org/licenses/by-sa/4.0/).\
