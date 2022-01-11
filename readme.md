@@ -14,6 +14,21 @@ During the semester, the group will have one lesson of CAOS. Lessons are conduct
 It's absolutely prohibited to write off, each task must be solved individualy! We'll ban every writen off solution. Furthermore, we'll also ban the solution wrom which the other student has written off. If the simuation will happen again – it will cause an instant retake for both sides.
 
 ## Homework
+In order to complete the hw, you have too:
++ Create a github account
++ Follow this link with to a homework assignment and accept it (links are below)
++ Then a repository for your solution will be automatically created
++ Write your code (you can do it in github's web interface, or clone the homework repository and do it locally on your computer)
++ Commit and push your changes in order to run github actions tests
++ Repeat two previous steps until you get ✅ for your latest commit.
+  To observe the failed test, you can click on ❌ icon and then, click on "Details".
+  Then, search for red text and read it.
++ When you get ✅, the pull request (PR) is created automatically and I review it ASAP
++ If I have any comments, I write them in your PR and you have to fix them ASAP
++ Repeat two previous steps until until all problems will be fixed.
+  After that, I'll approve your PR, merge it and put you a grade for your solution.
+
+### Links
 + h/w #1 `sets`: [github classrooms autotests](https://classroom.github.com/a/4mZ6mppX). Deadline: October 21-th, 23:59
 + h/w #2 `det2`: [github classrooms autotests](https://classroom.github.com/a/C3yZC7Hm). Deadline: October 28-th, 23:59
 + h/w #3 `matrix fun`: [github classrooms autotests](https://classroom.github.com/a/-_1qo_tu). Deadline: November 11-th, 23:59
