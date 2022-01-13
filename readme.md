@@ -49,6 +49,7 @@ In both semesters, the total ammount of points that you can get is `100`. Your f
 ## Useful links
 + [An article about ieee754](https://steve.hollasch.net/cgindex/coding/ieeefloat.html)
 + [Interesting video related to ieee754](https://www.youtube.com/watch?v=p8u_k2LIZyo)
++ [How to create ssh key](https://docs.oracle.com/en/cloud/cloud-at-customer/occ-get-started/generate-ssh-key-pair.html)
 + [My guide on configuring the DO account, creating an Ubuntu droplet and setting up the ARM toolchain](https://www.youtube.com/watch?v=zXXSoyMuiuw)
 + [My guide on configuring the ARM toolchain on ubuntu (textguide, summarizing the video)](https://github.com/Costello1329/caos-mipt-2021/blob/master/arm.md)
 + [ARM textguide](https://azeria-labs.com/writing-arm-assembly-part-1/)
