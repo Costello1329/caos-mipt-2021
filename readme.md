@@ -47,7 +47,7 @@ In order to complete the hw, you have too:
 + h/w #7 `parse gcc log`: [github classrooms autotests](https://classroom.github.com/a/ufC42VC_)
   + Opened: 08.02
   + Deadline: 22.02, 23:59
-+ h/w #8 `apply operation`: [github classrooms autotests](https://classroom.github.com/a/K1zY1vV1)
++ h/w #8 `apply operation`: `[github classrooms autotests](https://classroom.github.com/a/K1zY1vV1)`
   + Opened: 22.02
   + Deadline: 01.03, 23:59
 + h/w #9 `sort`: [github classrooms autotests](https://classroom.github.com/a/xDWkWKKx)
