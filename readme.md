@@ -8,7 +8,7 @@
 + [Course materials](https://github.com/victor-yacovlev/mipt-diht-caos/tree/master/en-mipt)
 
 ## Lessons:
-During the semester, the group will have one lesson of CAOS. Lessons are conducted in Zoom. Links to lessons are posted in advance in telegram chat.
+During the semester, the group will have one lesson of CAOS each week. Lessons are conducted in Zoom. Links to lessons are posted in advance in the telegram chat.
 
 ## Restrictions:
 It's absolutely prohibited to write off, each task must be solved individualy! We'll ban every writen off solution. Furthermore, we'll also ban the solution wrom which the other student has written off. If the simuation will happen again – it will cause an instant retake for both sides.
