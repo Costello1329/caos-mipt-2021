@@ -30,18 +30,38 @@ In order to complete the hw, you have too:
 [Video tutorial summarizing all the information described above and demonstrating the process of passing the tests](https://www.youtube.com/watch?v=GS1ai5_7aak&list=PL85_gNEP3vgRtexq5fuq0BSrc3sV_6o_1&index=7&ab_channel=KonstantinLeladze)
 
 ### Links
-+ h/w #1 `sets`: [github classrooms autotests](https://classroom.github.com/a/4mZ6mppX). Deadline: Oct 21-th, 23:59
-+ h/w #2 `det2`: [github classrooms autotests](https://classroom.github.com/a/C3yZC7Hm). Deadline: Oct 28-th, 23:59
-+ h/w #3 `matrix fun`: [github classrooms autotests](https://classroom.github.com/a/-_1qo_tu). Deadline: Nov 11-th, 23:59
-+ h/w #4 `tree`: [github classrooms autotests](https://classroom.github.com/a/ye--z9tK). Soft deadline (-40%): Dec 9-th, 23:59. Hard deadline: Dec 16-th, 23:59
-+ h/w #5 `spiral fill`: [github classrooms autotests](https://classroom.github.com/a/iZxc-71K). Soft deadline (-40%): Dec 9-th, 23:59. Hard deadline: Dec 16-th, 23:59
-+ h/w #6 `cpp expression`: [github classrooms autotests](https://classroom.github.com/a/8xgWlV3G). Deadline: Dec 16-th, 23:59
++ h/w #1 `sets`: [github classrooms autotests](https://classroom.github.com/a/4mZ6mppX)
+  + Deadline: 21.10, 23:59
++ h/w #2 `det2`: [github classrooms autotests](https://classroom.github.com/a/C3yZC7Hm)
+  + Deadline: 28.10, 23:59
++ h/w #3 `matrix fun`: [github classrooms autotests](https://classroom.github.com/a/-_1qo_tu)
+  + Deadline: 11.11, 23:59
++ h/w #4 `tree`: [github classrooms autotests](https://classroom.github.com/a/ye--z9tK)
+  + Soft deadline (-40%): Dec 9-th, 23:59
+  + Hard deadline: 16.12, 23:59
++ h/w #5 `spiral fill`: [github classrooms autotests](https://classroom.github.com/a/iZxc-71K)
+  + Soft deadline (-40%): 09.12, 23:59
+  + Hard deadline: 16.12, 23:59
++ h/w #6 `cpp expression`: [github classrooms autotests](https://classroom.github.com/a/8xgWlV3G)
+  + Deadline: 16.12, 23:59
 + h/w #7 `parse gcc log`
-+ h/w #8 `callback`
-+ h/w #9 `merge sort`
-+ h/w #10 `ping pong`
+  + Opened: 08.02
+  + Deadline: 22.02, 23:59
++ h/w #8 `apply operation`
+  + Opened: 22.02
+  + Deadline: 01.03, 23:59
++ h/w #9 `sort`
+  + Opened: 01.03
+  + Deadline: 29.03, 23:59
++ h/w #10 `ping pong`:
+  + Opened: 29.03
+  + Deadline: 12.04, 23:59
 + h/w #11 `tcp proxy`
+  + Opened: 12.04
+  + Deadline: 26.04, 23:59
 + h/w #12 `http server`
+  + Opened: 26.04
+  + Deadline: 17.05, 23:59
 
 ## Grading
 In both semesters, the total ammount of points that you can get is `100`. Your final grade can be calculated using this formula: `(total_score >= 30) ? round(total_score / 10) : retake()`
