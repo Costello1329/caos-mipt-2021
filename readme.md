@@ -47,19 +47,19 @@ In order to complete the hw, you have too:
 + h/w #7 `parse gcc log`: [github classrooms autotests](https://classroom.github.com/a/ufC42VC_)
   + Opened: 08.02
   + Deadline: 22.02, 23:59
-+ h/w #8 `apply operation`: [github classrooms autotests]()
++ h/w #8 `apply operation`: [github classrooms autotests](https://classroom.github.com/a/K1zY1vV1)
   + Opened: 22.02
   + Deadline: 01.03, 23:59
-+ h/w #9 `sort`: [github classrooms autotests]()
++ h/w #9 `sort`: [github classrooms autotests](https://classroom.github.com/a/xDWkWKKx)
   + Opened: 01.03
   + Deadline: 29.03, 23:59
-+ h/w #10 `ping pong`: [github classrooms autotests]()
++ h/w #10 `ping pong`: [github classrooms autotests](https://classroom.github.com/a/MLfRK9hv)
   + Opened: 29.03
   + Deadline: 12.04, 23:59
-+ h/w #11 `tcp proxy`: [github classrooms autotests]()
++ h/w #11 `tcp proxy`: [github classrooms autotests](https://classroom.github.com/a/OxOzRD7d)
   + Opened: 12.04
   + Deadline: 26.04, 23:59
-+ h/w #12 `http server`: [github classrooms autotests]()
++ h/w #12 `http server`: [github classrooms autotests](https://classroom.github.com/a/6Obn7dsh)
   + Opened: 26.04
   + Deadline: 17.05, 23:59
 
