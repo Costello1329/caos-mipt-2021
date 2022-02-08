@@ -30,36 +30,36 @@ In order to complete the hw, you have too:
 [Video tutorial summarizing all the information described above and demonstrating the process of passing the tests](https://www.youtube.com/watch?v=GS1ai5_7aak&list=PL85_gNEP3vgRtexq5fuq0BSrc3sV_6o_1&index=7&ab_channel=KonstantinLeladze)
 
 ### Links
-+ h/w #1 `sets`: [github classrooms autotests](https://classroom.github.com/a/4mZ6mppX)
++ h/w #1: [sets](https://classroom.github.com/a/4mZ6mppX)
   + Deadline: 21.10, 23:59
-+ h/w #2 `det2`: [github classrooms autotests](https://classroom.github.com/a/C3yZC7Hm)
++ h/w #2: [det2](https://classroom.github.com/a/C3yZC7Hm)
   + Deadline: 28.10, 23:59
-+ h/w #3 `matrix fun`: [github classrooms autotests](https://classroom.github.com/a/-_1qo_tu)
++ h/w #3: [matrix fun](https://classroom.github.com/a/-_1qo_tu)
   + Deadline: 11.11, 23:59
-+ h/w #4 `tree`: [github classrooms autotests](https://classroom.github.com/a/ye--z9tK)
++ h/w #4: [tree](https://classroom.github.com/a/ye--z9tK)
   + Soft deadline (-40%): Dec 9-th, 23:59
   + Hard deadline: 16.12, 23:59
-+ h/w #5 `spiral fill`: [github classrooms autotests](https://classroom.github.com/a/iZxc-71K)
++ h/w #5: [spiral fill](https://classroom.github.com/a/iZxc-71K)
   + Soft deadline (-40%): 09.12, 23:59
   + Hard deadline: 16.12, 23:59
-+ h/w #6 `cpp expression`: [github classrooms autotests](https://classroom.github.com/a/8xgWlV3G)
++ h/w #6: [cpp expression](https://classroom.github.com/a/8xgWlV3G)
   + Deadline: 16.12, 23:59
-+ h/w #7 `parse gcc log`: [github classrooms autotests](https://classroom.github.com/a/ufC42VC_)
++ h/w #7: [parse gcc log](https://classroom.github.com/a/ufC42VC_)
   + Opened: 08.02
   + Deadline: 22.02, 23:59
-+ h/w #8 `apply operation`: `[github classrooms autotests](https://classroom.github.com/a/K1zY1vV1)`
++ h/w #8: [apply operation](https://classroom.github.com/a/K1zY1vV1)
   + Opened: 22.02
   + Deadline: 01.03, 23:59
-+ h/w #9 `sort`: [github classrooms autotests](https://classroom.github.com/a/xDWkWKKx)
++ h/w #9: [sort](https://classroom.github.com/a/xDWkWKKx)
   + Opened: 01.03
   + Deadline: 29.03, 23:59
-+ h/w #10 `ping pong`: [github classrooms autotests](https://classroom.github.com/a/MLfRK9hv)
++ h/w #10: [ping pong](https://classroom.github.com/a/MLfRK9hv)
   + Opened: 29.03
   + Deadline: 12.04, 23:59
-+ h/w #11 `tcp proxy`: [github classrooms autotests](https://classroom.github.com/a/OxOzRD7d)
++ h/w #11: [tcp proxy](https://classroom.github.com/a/OxOzRD7d)
   + Opened: 12.04
   + Deadline: 26.04, 23:59
-+ h/w #12 `http server`: [github classrooms autotests](https://classroom.github.com/a/6Obn7dsh)
++ h/w #12: [http server](https://classroom.github.com/a/6Obn7dsh)
   + Opened: 26.04
   + Deadline: 17.05, 23:59
 
