@@ -46,13 +46,13 @@ In order to complete the hw, you have too:
   + Deadline: 16.12, 23:59
 + h/w #7: [parse gcc log](https://classroom.github.com/a/ufC42VC_)
   + Opened: 08.02
-  + Deadline: 22.02, 23:59
-+ h/w #8: [apply operation](https://classroom.github.com/a/K1zY1vV1)
-  + Opened: 22.02
   + Deadline: 01.03, 23:59
-+ h/w #9: [sort](https://classroom.github.com/a/xDWkWKKx)
++ h/w #8: [apply operation](https://classroom.github.com/a/K1zY1vV1)
   + Opened: 01.03
-  + Deadline: 29.03, 23:59
+  + Deadline: 15.03, 23:59
++ h/w #9: [sort](https://classroom.github.com/a/xDWkWKKx)
+  + Opened: 15.03
+  + Deadline: 05.04, 23:59
 + h/w #10: [ping pong](https://classroom.github.com/a/MLfRK9hv)
   + Opened: 29.03
   + Deadline: 12.04, 23:59
