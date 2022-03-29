@@ -52,7 +52,7 @@ In order to complete the hw, you have too:
   + Deadline: 15.03, 23:59
 + h/w #9: [sort](https://classroom.github.com/a/xDWkWKKx)
   + Opened: 15.03
-  + Deadline: 05.04, 23:59
+  + Deadline: 26.04, 23:59
 + h/w #10: [ping pong](https://classroom.github.com/a/MLfRK9hv)
   + Opened: 29.03
   + Deadline: 12.04, 23:59
