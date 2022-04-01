@@ -57,10 +57,10 @@ In order to complete the hw, you have too:
   + Opened: 29.03
   + Deadline: 12.04, 23:59
 + h/w #11: [tcp proxy](https://classroom.github.com/a/OxOzRD7d)
-  + Opened: 12.04
+  + Opened: 05.04
   + Deadline: 26.04, 23:59
 + h/w #12: [http server](https://classroom.github.com/a/6Obn7dsh)
-  + Opened: 26.04
+  + Opened: 12.04
   + Deadline: 17.05, 23:59
 
 ## Grading
