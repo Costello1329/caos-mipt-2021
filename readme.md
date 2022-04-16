@@ -55,7 +55,7 @@ In order to complete the hw, you have too:
   + Deadline: 26.04, 23:59
 + h/w #10: [ping pong](https://classroom.github.com/a/MLfRK9hv)
   + Opened: 29.03
-  + Deadline: 12.04, 23:59
+  + Deadline: 19.04, 23:59
 + h/w #11: [tcp proxy](https://classroom.github.com/a/OxOzRD7d)
   + Opened: 05.04
   + Deadline: 26.04, 23:59
